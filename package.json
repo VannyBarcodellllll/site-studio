@@ -1,0 +1,1 @@
+{"name":"site-studio","version":"1.0.0","private":true,"type":"module","description":"A visual website builder with templates, project management, and drag-and-drop editing.","scripts":{"start":"node server.mjs"},"engines":{"node":">=20"}}
